@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto&display=swap');
+@import url("Component/container.css");
+@import url("Component/avatar.css");
+@import url("Component/button.css");
+@import url("Component/banner.css");
+@import url("Component/card.css");
+@import url("Component/champs.css");
+@import url("Component/btn-small.css");
+
+body {
+	font-family: "Lora", serif;
+	font-size: 18px;
+	margin: 0px;
+	
+}
+
+h1, {
+	font-family: "Roboto" , sans-serif;
+	font-weight:bolder;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Roboto" , sans-serif;
+	font-weight:bolder;
+	text-align: center;
+	color: darkblue;
+}
+
+h3 {
+	font-family: "Roboto" , sans-serif;
+	font-weight:lighter;
+	text-align: center;
+	color: black;
+}
+
+p {
+	font-family: "Roboto" , sans-serif;
+	font-weight:bolder;
+	text-align: justify-all;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover {
+	color: darkblue;
+	font-weight: bolder;
+
+
+
